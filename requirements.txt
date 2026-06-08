@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+pdfplumber
+langchain
+langchain-community
+langchain-groq
+langchain-core
+langchain-text-splitters
+langchain-pinecone
+pinecone-client
+sentence-transformers
+pydantic
